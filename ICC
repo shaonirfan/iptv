@@ -1,0 +1,70 @@
+#EXTINF:-1,Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1,ATN Bangle
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1,BanglaTV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1,Bangla vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1,Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1,Channel I
+http://10.16.100.205/hls/ch_i.m3u8
+#EXTINF:-1,DBC News
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1,Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Desh TV
+http://10.16.100.205/hls/des_tv_local480.m3u8
+#EXTINF:-1,GTV
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1,Mohona TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1,Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1,ETV
+http://10.16.100.205/hls/21etv.m3u8
+#EXTINF:-1,MyTV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-1,News24
+http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:-1,RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-1,Star Plus
+http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+#EXTINF:-1,Akash 8
+http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+#EXTINF:-1,Colors Bangla
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1,Sony 8
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+#EXTINF:-1,Star Jalsha
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
+#EXTINF:-1,Zee Bangla
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
+#EXTINF:-1,& Pictures HD
+http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
+#EXTINF:-1,B4U Music
+http://10.16.100.201/hindi/bforu_music_1stop_in.m3u8
+#EXTINF:-1,Dhoom Music
+http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
+#EXTINF:-1,GaanBangla
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+#EXTINF:-1,Samgeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1,Sony TEN 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-1,Star Sports 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1, Star sports select 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1,T Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1,Tsports
+http://10.16.100.201/hindi/sportsT.m3u8
