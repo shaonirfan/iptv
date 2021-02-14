@@ -78,3 +78,5 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1,Tsports
 http://10.16.100.201/hindi/sportsT.m3u8
+#EXTINF:-1,GameOn
+http://202.59.210.6/channel4/ngrp:9JwmwCyMv4_all/playlist.m3u8
